@@ -1,0 +1,19 @@
+# Ensure line endings are handled consistently
+* text=auto
+
+# Treat all JavaScript and TypeScript files as UTF-8
+*.js text eol=lf
+*.ts text eol=lf
+*.jsx text eol=lf
+*.tsx text eol=lf
+
+# Binary files should not be modified
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+
+# Prevent Next.js build artifacts from causing issues
+.next/ binary
+out/ binary
