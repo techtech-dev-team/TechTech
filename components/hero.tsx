@@ -6,24 +6,7 @@ import { Code, Laptop, Globe, Shield, Zap, Smartphone } from "lucide-react";
 
 
 export function Hero() {
-  const words = [
-    {
-      text: "Build",
-    },
-    {
-      text: "awesome",
-    },
-    {
-      text: "apps",
-    },
-    {
-      text: "with",
-    },
-    {
-      text: "TechTech",
-      className: "text-orange-300 dark:text-blue-300",
-    },
-  ];
+  
   return (
     <div className="min-h-screen bg-black relative">
       {/* Background Video Section */}
