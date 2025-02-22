@@ -70,7 +70,7 @@ export function Footer() {
             <ul className="mt-3 space-y-2 text-gray-300 text-center sm:text-left">
               <li>TechTech Pvt</li>
               <li>Phone: +91 9619555596</li>
-              <li>Bus Stop, 1st floor, Dalvi Complex, Pimple Nilakh</li>
+              <li>Dalvi Complex, Pimple Nilakh</li>
               <li>In Front of Savitribai Phule Udyan BRT, near Jagtap Dairy Maharashtra 411027</li>
             </ul>
           </div>
